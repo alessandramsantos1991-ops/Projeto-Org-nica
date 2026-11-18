@@ -16,7 +16,7 @@ celular e retira no balcão ou recebe em casa, sem fila no intervalo.
 ## Como rodar
 1. Instale o XAMPP e ligue Apache e MySQL.
 2. Copie a pasta `orgânicaweb` para `C:\xampp\htdocs`.
-3. No phpMyAdmin, importe `database/cantinaweb.sql`.
+3. No phpMyAdmin, importe `database/organicaweb.sql`.
 4. Acesse http://localhost/cantinaweb
 Passos detalhados em `docs/instalacao.md`.
 
